@@ -1,0 +1,68 @@
+{
+    "nodes": [
+        {
+            "Number": 0,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": []
+        },
+        {
+            "Number": 1,
+            "Hardwares": [
+                2,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 2,
+            "Hardwares": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 3,
+            "Hardwares": [1, 1, 1, 1],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 4,
+            "Hardwares": [1, 1, 1, 1],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5,
+            "Hardwares": [1, 1, 1, 1],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        }
+    ]
+}
